@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "csv": "^3.0.2",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.13"
   }
 }
